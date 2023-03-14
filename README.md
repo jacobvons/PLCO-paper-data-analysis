@@ -1,0 +1,5 @@
+# PLCO-data-analysis
+This repository contains code used for demonstrating the machine learning pipeline validity on the PLCO Ovarian Cancer Biomarkers dataset (https://cdas.cancer.gov/datasets/plco/23/). Based on results from these experiments, a manuscript with title "Explainable discovery of disease biomarkers: The case of ovarian cancer to illustrate the best practice in machine learning and Shapley analysis" is written and being reviewed for publication. 
+
+## Author Contributions
+Weitong Huang (repo owner), Amanda S. Barnard, Hanna Suominen and Tommy Liu conceived and designed the experiments and analysis. Weitong Huang collected the data. Carlos Salomon and Greg Rice provided medical domain expertise in background and analysis. Weitong Huang perfomed the model building and data analysis. Tommy Liu provided support in interpreting the results. Weitong Huang took the lead in writing the manuscript. All authors provided critical feedback and helped shape the research, analysis and manuscript.
