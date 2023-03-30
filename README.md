@@ -1,4 +1,4 @@
-# PLCO-data-analysis
+# PLCO Ovarian Cancer Biomarkers Data Analysis Demonstration
 This repository contains code used for demonstrating the machine learning pipeline validity on the PLCO Ovarian Cancer Biomarkers dataset (https://cdas.cancer.gov/datasets/plco/23/). Based on results from these experiments, a manuscript with title "Explainable discovery of disease biomarkers: The case of ovarian cancer to illustrate the best practice in machine learning and Shapley analysis" is written and is under review for publication. 
 
 ## Repo Explanation
